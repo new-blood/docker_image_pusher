@@ -1,1 +1,2 @@
 bitnami/suitecrm:latest
+bitnami/mariadb
