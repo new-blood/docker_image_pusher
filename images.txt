@@ -1,2 +1,3 @@
 bitnami/suitecrm:latest
 bitnami/mariadb
+library/node:20-alpine3.20
