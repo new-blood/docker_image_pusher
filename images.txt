@@ -1,3 +1,1 @@
-bitnami/suitecrm:latest
-bitnami/mariadb
-library/node:20-alpine3.20
+langgenius/dify-web:0.15.2
