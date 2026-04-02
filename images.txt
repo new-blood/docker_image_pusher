@@ -1,2 +1,1 @@
-langgenius/dify-web:0.15.2
 envoyproxy/envoy:distroless-v1.37.1
